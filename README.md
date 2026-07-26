@@ -2,7 +2,7 @@
 
 > A wearable eye-blink interface that translates eyelid gestures into spoken phrases and smart-home commands for individuals with paralysis or speech impairments.
 
-**Author:** Mohamed Sameh  
+**Authors:** Mohamed Sameh & Mohamed Elawady  
 **License:** MIT
 
 ---
@@ -229,4 +229,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-**Mohamed Sameh** · [GitHub](https://github.com/m7md0010)
+**Mohamed Sameh** · [GitHub](https://github.com/m7md0010)  
+**Mohamed Elawady** · Co-Author
