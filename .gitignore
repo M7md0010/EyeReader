@@ -1,0 +1,19 @@
+# KiCad Lock Files
+*.lck
+
+# KiCad Backup Files
+*-backups/
+_restore_backup_*/
+.history/
+
+# KiCad Auto-save
+\#auto_saved_files\#
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/

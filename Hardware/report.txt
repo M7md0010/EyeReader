@@ -1,0 +1,94 @@
+Info: Processing symbol 'C1:'.
+Info: Processing symbol 'L3:'.
+Info: Processing symbol 'C2:'.
+Info: Processing symbol 'J2:'.
+Info: Processing symbol 'C3:'.
+Info: Processing symbol 'J3:'.
+Info: Processing symbol 'C4:'.
+Info: Processing symbol 'J4:'.
+Info: Processing symbol 'C5:'.
+Info: Processing symbol 'L1:'.
+Info: Processing symbol 'C6:'.
+Info: Processing symbol 'C12:'.
+Info: Processing symbol 'C7:'.
+Info: Processing symbol 'L2:'.
+Info: Processing symbol 'C8:'.
+Info: Processing symbol 'L4:'.
+Info: Processing symbol 'C9:'.
+Info: Processing symbol 'M1:'.
+Info: Processing symbol 'C10:'.
+Info: Processing symbol 'Q1:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'C11:'.
+Info: Processing symbol 'R1:'.
+Info: Processing symbol 'R2:'.
+Info: Processing symbol 'R3:'.
+Info: Processing symbol 'C13:'.
+Info: Processing symbol 'R4:'.
+Info: Processing symbol 'C14:'.
+Info: Processing symbol 'R5:'.
+Info: Processing symbol 'C15:'.
+Info: Processing symbol 'R6:'.
+Info: Processing symbol 'C16:'.
+Info: Processing symbol 'R7:'.
+Info: Processing symbol 'C17:'.
+Info: Processing symbol 'R8:'.
+Info: Processing symbol 'C18:'.
+Info: Processing symbol 'R9:'.
+Info: Processing symbol 'C19:'.
+Info: Processing symbol 'U1:Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.7x1.4mm'.
+Info: Processing symbol 'C20:'.
+Info: Processing symbol 'U2:Package_DFN_QFN:Nordic_AQFN-73-1EP_7x7mm_P0.5mm'.
+Info: Processing symbol 'D1:'.
+Info: Processing symbol 'U3:LGA12_STM'.
+Info: Processing symbol 'D2:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'Y1:'.
+Info: Processing symbol 'J1:'.
+Add D2 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Add U2 (footprint 'Package_DFN_QFN:Nordic_AQFN-73-1EP_7x7mm_P0.5mm').
+Add Q1 (footprint 'Package_TO_SOT_SMD:SOT-23').
+Add U1 (footprint 'Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.7x1.4mm').
+Add U3 (footprint 'LGA12_STM').
+Warning: Warning: U3 footprint 'LGA12_STM' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Error: Cannot add C7 (no footprint assigned).
+Error: Cannot add C8 (no footprint assigned).
+Error: Cannot add C9 (no footprint assigned).
+Error: Cannot add C10 (no footprint assigned).
+Error: Cannot add C11 (no footprint assigned).
+Error: Cannot add C6 (no footprint assigned).
+Error: Cannot add C12 (no footprint assigned).
+Error: Cannot add C13 (no footprint assigned).
+Error: Cannot add C14 (no footprint assigned).
+Error: Cannot add C15 (no footprint assigned).
+Error: Cannot add C16 (no footprint assigned).
+Error: Cannot add C17 (no footprint assigned).
+Error: Cannot add C18 (no footprint assigned).
+Error: Cannot add C19 (no footprint assigned).
+Error: Cannot add C20 (no footprint assigned).
+Error: Cannot add D1 (no footprint assigned).
+Error: Cannot add R2 (no footprint assigned).
+Error: Cannot add J1 (no footprint assigned).
+Error: Cannot add R3 (no footprint assigned).
+Error: Cannot add L3 (no footprint assigned).
+Error: Cannot add R4 (no footprint assigned).
+Error: Cannot add J4 (no footprint assigned).
+Error: Cannot add R5 (no footprint assigned).
+Error: Cannot add L4 (no footprint assigned).
+Error: Cannot add R6 (no footprint assigned).
+Error: Cannot add J3 (no footprint assigned).
+Error: Cannot add R7 (no footprint assigned).
+Error: Cannot add M1 (no footprint assigned).
+Error: Cannot add R8 (no footprint assigned).
+Error: Cannot add C1 (no footprint assigned).
+Error: Cannot add R9 (no footprint assigned).
+Error: Cannot add C2 (no footprint assigned).
+Error: Cannot add C3 (no footprint assigned).
+Error: Cannot add J2 (no footprint assigned).
+Error: Cannot add L1 (no footprint assigned).
+Error: Cannot add R1 (no footprint assigned).
+Error: Cannot add C4 (no footprint assigned).
+Error: Cannot add C5 (no footprint assigned).
+Error: Cannot add L2 (no footprint assigned).
+Error: Cannot add Y1 (no footprint assigned).
+
+
+Info: Total warnings: 1, errors: 40.

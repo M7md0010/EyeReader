@@ -1,0 +1,183 @@
+ERC report (2026-07-20T15:57:51, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+[pin_not_connected]: Pin not connected
+    ; error
+    @(2050 mils, 4450 mils): Symbol U2 Pin B24 [XC1, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(2050 mils, 4450 mils): Symbol U2 Pin B24 [XC1, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(2050 mils, 4850 mils): Symbol U2 Pin A23 [XC2, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(2050 mils, 4850 mils): Symbol U2 Pin A23 [XC2, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(2050 mils, 6350 mils): Symbol U2 Pin AC13 [P0.18/~{RESET}, Bidirectional, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(3350 mils, 1850 mils): Symbol U2 Pin B1 [VDD, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 2650 mils): Symbol U2 Pin K2 [AIN3/P0.05, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 2750 mils): Symbol U2 Pin L1 [P0.06, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 2850 mils): Symbol U2 Pin M2 [TRACECLK/P0.07, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 2950 mils): Symbol U2 Pin N1 [P0.08, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 3050 mils): Symbol U2 Pin L24 [NFC1/P0.09, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 3150 mils): Symbol U2 Pin J24 [NFC2/P0.10, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 3250 mils): Symbol U2 Pin T2 [TRACEDATA2/P0.11, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 3350 mils): Symbol U2 Pin U1 [TRACEDATA1/P0.12, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 3450 mils): Symbol U2 Pin AD8 [P0.13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 3550 mils): Symbol U2 Pin AC9 [P0.14, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 3650 mils): Symbol U2 Pin AD10 [P0.15, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 3750 mils): Symbol U2 Pin AC11 [P0.16, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 3850 mils): Symbol U2 Pin AD12 [P0.17, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 3950 mils): Symbol U2 Pin AC15 [P0.19, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 4050 mils): Symbol U2 Pin AD16 [P0.20, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 4150 mils): Symbol U2 Pin AC17 [P0.21, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 4250 mils): Symbol U2 Pin AD18 [P0.22, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 4350 mils): Symbol U2 Pin AC19 [P0.23, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 4450 mils): Symbol U2 Pin AD20 [P0.24, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 4550 mils): Symbol U2 Pin AC21 [P0.25, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 4850 mils): Symbol U2 Pin B11 [AIN4/P0.28, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 4950 mils): Symbol U2 Pin A10 [AIN5/P0.29, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 5050 mils): Symbol U2 Pin B9 [AIN6/P0.30, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 5150 mils): Symbol U2 Pin A8 [AIN7/P0.31, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 5350 mils): Symbol U2 Pin AD22 [TRACEDATA0/P1.00, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 5450 mils): Symbol U2 Pin Y23 [P1.01, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 5550 mils): Symbol U2 Pin W24 [P1.02, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 5650 mils): Symbol U2 Pin V23 [P1.03, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 5750 mils): Symbol U2 Pin U24 [P1.04, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 5850 mils): Symbol U2 Pin T23 [P1.05, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 5950 mils): Symbol U2 Pin R24 [P1.06, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 6050 mils): Symbol U2 Pin P23 [P1.07, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 6150 mils): Symbol U2 Pin P2 [P1.08, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 6250 mils): Symbol U2 Pin R1 [TRACEDATA3/P1.09, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 6350 mils): Symbol U2 Pin A20 [P1.10, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 6450 mils): Symbol U2 Pin B19 [P1.11, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 6550 mils): Symbol U2 Pin B17 [P1.12, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 6650 mils): Symbol U2 Pin A16 [P1.13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 6750 mils): Symbol U2 Pin B15 [P1.14, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4650 mils, 6850 mils): Symbol U2 Pin A14 [P1.15, Bidirectional, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(8050 mils, 3650 mils): Symbol U3 Pin 2 [AVSSVCSEL, Power output, Line]
+    @(8050 mils, 3750 mils): Symbol U3 Pin 3 [GND, Power output, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(8050 mils, 3750 mils): Symbol U3 Pin 3 [GND, Power output, Line]
+    @(8050 mils, 3850 mils): Symbol U3 Pin 4 [GN2, Power output, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(8050 mils, 3850 mils): Symbol U3 Pin 4 [GN2, Power output, Line]
+    @(8050 mils, 4050 mils): Symbol U3 Pin 6 [GND3, Power output, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(8050 mils, 4050 mils): Symbol U3 Pin 6 [GND3, Power output, Line]
+    @(10050 mils, 3550 mils): Symbol U3 Pin 12 [GND4, Power output, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(9600 mils, 1600 mils): Symbol U1 Pin 2 [V_{DD}, Power input, Line]
+[multiple_net_names]: Both -BATT and GND are attached to the same items; -BATT will be used in the netlist
+    ; warning
+    @(10800 mils, 1250 mils): Symbol #PWR02 Pin 1 [Power input, Line]
+    @(1650 mils, 6350 mils): Symbol #PWR012 Pin 1 [Power input, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(3350 mils, 1900 mils): Vertical Wire, length 50 mils
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(8050 mils, 3550 mils): Symbol U3 [VL53L4CDV0DH_1]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(8050 mils, 3950 mils): Symbol U3 Pin 5 [XSHUT, Unspecified, Line]
+    @(9400 mils, 5200 mils): Symbol J4 Pin 2 [Pin_2, Passive, Line]
+
+ ** ERC messages: 55  Errors 51  Warnings 4
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters
