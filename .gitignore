@@ -17,3 +17,6 @@ desktop.ini
 # IDE
 .vscode/
 .idea/
+
+# KiCad temp files
+$tempfile$*

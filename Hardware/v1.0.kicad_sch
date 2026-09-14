@@ -4986,6 +4986,16 @@
 	)
 	(wire
 		(pts
+			(xy 19.05 72.39) (xy 21.59 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0067a3a7-fb3b-4a3c-ab5f-b28d461b1081")
+	)
+	(wire
+		(pts
 			(xy 134.62 120.65) (xy 134.62 125.73)
 		)
 		(stroke
@@ -6396,6 +6406,16 @@
 	)
 	(wire
 		(pts
+			(xy 19.05 74.93) (xy 21.59 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa34febd-4df5-4b0e-ad11-8acba924ede8")
+	)
+	(wire
+		(pts
 			(xy 48.26 45.72) (xy 48.26 50.8)
 		)
 		(stroke
@@ -6565,30 +6585,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "ANT"
-		(shape input)
-		(at 21.59 72.39 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "637c49e3-4d41-4ed9-84c1-cad1b4088638")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 15.2181 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -8254,6 +8250,84 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 21.59 74.93 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "421829c7-6307-4bad-b897-138672213d20")
+		(property "Reference" "#PWR019"
+			(at 21.59 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 21.59 80.01 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 21.59 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 21.59 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 21.59 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bbb509f8-e860-476c-9f69-14fafe89b232")
+		)
+		(instances
+			(project "v1.0"
+				(path "/18592d85-58e8-4a71-afab-77ec2b9c0dc0"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 100.33 21.59 90)
 		(unit 1)
 		(body_style 1)
@@ -8970,6 +9044,86 @@
 			(project "v1.0"
 				(path "/18592d85-58e8-4a71-afab-77ec2b9c0dc0"
 					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 13.97 74.93 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6f1cc1c0-4c66-4638-8c11-105a24c69bfb")
+		(property "Reference" "J8"
+			(at 14.605 80.01 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 14.605 77.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "RF_Antenna:Texas_SWRA117D_2.4GHz_Left"
+			(at 13.97 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 13.97 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 13.97 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5bcfef3a-00dc-4d7d-a5b6-a759ac52c94d")
+		)
+		(pin "2"
+			(uuid "2d255ff0-e0ed-4a50-bad7-4b6bcaac952e")
+		)
+		(instances
+			(project "v1.0"
+				(path "/18592d85-58e8-4a71-afab-77ec2b9c0dc0"
+					(reference "J8")
 					(unit 1)
 				)
 			)
