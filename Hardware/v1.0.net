@@ -2,7 +2,7 @@
 	(version "E")
 	(design
 		(source "D:\\02_Firmware_and_IoT\\eye_reader\\repo\\EyeReader\\Hardware\\v1.0.kicad_sch")
-		(date "2026-10-08T22:37:35")
+		(date "2026-10-08T23:38:03")
 		(tool "Eeschema 10.0.3")
 		(sheet
 			(number "1")
